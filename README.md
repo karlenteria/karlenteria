@@ -2,7 +2,7 @@
 
 ## I'm a Student aspiring to be a great Developer.
 
-- 🌱 I’m currently learning everything about front-end 🤣
+- 🌱 I’m currently learning everything about Web Development 🤣
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to play guitar and watch anime.
 
