@@ -1,6 +1,6 @@
 # Hi there, I'm Karl 👋
 
-## I'm a Student aspiring to be a great Developer.
+## I'm a Full Stack Developer
 
 - 🌱 I’m currently learning everything about Web Development 🤣
 - 🥅 2022 Goals: Learn more about web3
