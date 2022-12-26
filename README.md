@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer
 
 - 🌱 I’m currently learning everything about Web Development 🤣
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2023 Goals: Build more Apps
 - ⚡ Fun fact: I love to play guitar and watch anime.
 
 ### Connect with me:
